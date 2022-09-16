@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = LVizcaino@slb.com
+	name = Manuel Lavin
